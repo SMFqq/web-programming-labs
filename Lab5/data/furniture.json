@@ -1,0 +1,33 @@
+{
+    "categoryName": "Furniture",
+    "products": [
+        {
+            "id": 301,
+            "name": "Office Chair",
+            "shortname": "chair",
+            "description": "Ergonomic chair for long work hours.",
+            "price": "150 USD"
+        },
+        {
+            "id": 302,
+            "name": "Wooden Desk",
+            "shortname": "desk",
+            "description": "Solid wood desk with drawers.",
+            "price": "200 USD"
+        },
+        {
+            "id": 303,
+            "name": "Sofa",
+            "shortname": "sofa",
+            "description": "Comfortable 3-seater sofa.",
+            "price": "500 USD"
+        },
+        {
+            "id": 304,
+            "name": "Bookshelf",
+            "shortname": "bookshelf",
+            "description": "Tall bookshelf for your library.",
+            "price": "100 USD"
+        }
+    ]
+}

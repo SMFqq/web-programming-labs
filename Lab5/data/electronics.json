@@ -1,0 +1,33 @@
+{
+    "categoryName": "Electronics",
+    "products": [
+        {
+            "id": 101,
+            "name": "Smartphone X",
+            "shortname": "smartphone_x",
+            "description": "High-end smartphone with a great camera.",
+            "price": "999 USD"
+        },
+        {
+            "id": 102,
+            "name": "Laptop Pro",
+            "shortname": "laptop_pro",
+            "description": "Powerful laptop for developers.",
+            "price": "1499 USD"
+        },
+        {
+            "id": 103,
+            "name": "Wireless Headphones",
+            "shortname": "headphones",
+            "description": "Noise-cancelling headphones.",
+            "price": "299 USD"
+        },
+        {
+            "id": 104,
+            "name": "Smart Watch",
+            "shortname": "smart_watch",
+            "description": "Keep track of your health.",
+            "price": "199 USD"
+        }
+    ]
+}

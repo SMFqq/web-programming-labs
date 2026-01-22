@@ -1,0 +1,33 @@
+{
+    "categoryName": "Clothing",
+    "products": [
+        {
+            "id": 201,
+            "name": "T-Shirt Basic",
+            "shortname": "tshirt",
+            "description": "100% Cotton basic t-shirt.",
+            "price": "20 USD"
+        },
+        {
+            "id": 202,
+            "name": "Jeans Classic",
+            "shortname": "jeans",
+            "description": "Durable blue denim jeans.",
+            "price": "50 USD"
+        },
+        {
+            "id": 203,
+            "name": "Winter Jacket",
+            "shortname": "jacket",
+            "description": "Warm jacket for cold weather.",
+            "price": "120 USD"
+        },
+        {
+            "id": 204,
+            "name": "Sneakers",
+            "shortname": "sneakers",
+            "description": "Comfortable running shoes.",
+            "price": "80 USD"
+        }
+    ]
+}

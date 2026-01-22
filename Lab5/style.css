@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.category-card {
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+
+.category-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.product-img {
+    height: 200px;
+    object-fit: cover;
+    background-color: #eee;
+}
+
+.specials-btn {
+    background: linear-gradient(45deg, #ff357a, #fff172);
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+}
