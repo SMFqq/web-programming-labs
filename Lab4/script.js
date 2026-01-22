@@ -25,7 +25,7 @@ const difficultySettings = {
         spread: 0.5 
     },
     hard: {
-        time: 3,
+        time: 1,
         size: 10,
         spread: 1.0 
     }
@@ -119,4 +119,5 @@ function endGame() {
     clearInterval(timerInterval);
     alert(`Game Over! Your score: ${score}`);
     location.reload(); 
+
 }
